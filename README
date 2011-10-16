@@ -6,3 +6,16 @@ see:
 
 http://www.willuhn.de/wiki/doku.php?id=develop:xmlrpc#xml-rpc-aufrufe_im_detail
 
+Quickstart:
+
+You need a running jameica/hibiscus instance. 
+Tested with jameica "v 2.0.1" / hibiscus "v 2.0.3 Build: 352 from 2011-07-28"
+
+You have to enter your hibiscus master password in login_template.py and rename the file to login.py 
+
+For examples see: https://github.com/miebach/py-hibiscus/blob/master/_scenario.rst
+
+XML-RPC settings in jameica:
+
+  Java Interface Namen als XML-RPC Namen verwenden -> NEIN 
+  
