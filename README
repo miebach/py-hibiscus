@@ -1,0 +1,8 @@
+Python XML-RPC library to query a running instance of Jameica/Hibiscus Banking Software 
+
+status: proof of concept
+
+see:
+
+http://www.willuhn.de/wiki/doku.php?id=develop:xmlrpc#xml-rpc-aufrufe_im_detail
+
